@@ -1,0 +1,16 @@
+#main-content {
+	margin-top: 50px;
+}
+
+form {
+	float: left;
+	margin-top: 25px;
+}
+
+#populatedGifs {
+	float: right;
+}
+
+button {
+	margin: 3px;
+}
